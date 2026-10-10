@@ -13,6 +13,16 @@ Ruta de desarrollo para una persona que empieza en desarrollo web. Se basa en el
 
 Cada etapa tiene cuatro partes: qué **aprendes**, qué **construyes**, cuándo está **hecha** y dónde **consultar**.
 
+## Miniproyectos
+
+Cada etapa está desglosada en tareas pequeñas, explicadas paso a paso y sin tecnicismos:
+
+- [Miniproyectos de ServiceDesk](miniproyectos/1-servicedesk.md) (etapas 0 a 10)
+- [Miniproyectos de BookingCore](miniproyectos/2-bookingcore.md) (etapas 11 a 17)
+- [Miniproyectos de OpsFlow](miniproyectos/3-opsflow.md) (etapas 18 a 22)
+
+Este documento es el mapa; esos tres son las instrucciones del día a día.
+
 ## Vista general
 
 | Bloque | Etapas | Resultado | Esfuerzo orientativo |
