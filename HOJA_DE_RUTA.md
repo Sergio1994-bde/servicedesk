@@ -61,6 +61,14 @@ Ya existe un primer commit con `index.html` y varios archivos vacíos. Antes de 
 
 **Consulta:** MDN · *Aprender desarrollo web* (sección de Git y GitHub).
 
+> **Repaso de los comandos de Git** (para releer antes de empezar la etapa 1):
+> - **`git status`**: muestra qué archivos has cambiado desde el último commit, para saber qué está listo para guardar.
+> - **`git add`**: elige qué cambios entran en el próximo commit, como meter cosas en una caja antes de cerrarla.
+> - **`git commit`**: guarda esa caja como una foto del proyecto con una nota que explica qué contiene.
+> - **`git push`**: envía esa foto a GitHub para tener una copia fuera de tu ordenador.
+>
+> Orden habitual: `git status` → `git add` → `git commit` → `git push`.
+
 ---
 
 # Proyecto 1 · ServiceDesk (frontend)
