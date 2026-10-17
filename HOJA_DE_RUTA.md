@@ -38,9 +38,9 @@ Este documento es el mapa; esos tres son las instrucciones del día a día.
 
 Ya existe un primer commit con `index.html` y varios archivos vacíos. Antes de seguir conviene arreglar esto:
 
-- [ ] Renombrar `ticket-detalil.html` → `ticket-detalle.html` (errata en el nombre). Usa `git mv` para que Git registre el cambio.
-- [ ] Corregir el `<title>` de `index.html`: pone "ServiceDesck".
-- [ ] La rama se llama `master`; GitHub usa `main` por defecto. Renómbrala con `git branch -m master main`.
+- [x] Renombrar `ticket-detalil.html` → `ticket-detalle.html` (errata en el nombre). Usa `git mv` para que Git registre el cambio.
+- [x] Corregir el `<title>` de `index.html`: pone "ServiceDesck".
+- [x] La rama se llama `master`; GitHub usa `main` por defecto. Renómbrala con `git branch -m master main`.
 - [ ] `README.md`, `css/styles.css` y tres páginas HTML están vacíos: se rellenan en las etapas 1 y 2.
 - [ ] Node.js no está instalado en este equipo. No hace falta hasta la etapa 5.
 
@@ -52,10 +52,10 @@ Ya existe un primer commit con `index.html` y varios archivos vacíos. Antes de 
 
 **Construyes:**
 - [ ] Instalar en VS Code las extensiones *Live Server* y *Prettier*.
-- [ ] Crear una cuenta de GitHub y un repositorio remoto vacío llamado `servicedesk`.
-- [ ] Conectar el repositorio local con el remoto y subir el primer commit.
-- [ ] Resolver los puntos del apartado anterior, **un commit por cada arreglo**.
-- [ ] Escribir tres líneas en `README.md`: qué es el proyecto, en qué estado está y cómo abrirlo.
+- [x] Crear una cuenta de GitHub y un repositorio remoto vacío llamado `servicedesk`.
+- [x] Conectar el repositorio local con el remoto y subir el primer commit.
+- [x] Resolver los puntos del apartado anterior, **un commit por cada arreglo**.
+- [x] Escribir tres líneas en `README.md`: qué es el proyecto, en qué estado está y cómo abrirlo.
 
 **Hecho cuando:** ves tus commits en GitHub y sabes explicar qué hacen `git status`, `git add`, `git commit` y `git push`.
 
